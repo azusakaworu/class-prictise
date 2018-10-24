@@ -25,7 +25,7 @@ function parseCarData(Car){
         document.querySelector(".modelDetails")=textContent =modelDetails;
 };
     
-    cars.forEach (car=> car.addEventlistener("click,.....)
+    cars.forEach (car=> car.addEventlistener("click",fetchData);
   fetchDta();
 
 })();
